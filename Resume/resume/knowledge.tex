@@ -1,0 +1,53 @@
+%inlineitem
+\makeatletter
+\newcommand{\inlineitem}[1][]{%
+\ifnum\enit@type=\tw@
+    {\descriptionlabel{#1}}
+  \hspace{\labelsep}%
+\else
+  \ifnum\enit@type=\z@
+       \refstepcounter{\@listctr}\fi
+    \quad\@itemlabel\hspace{\labelsep}%
+\fi}
+\makeatother
+
+
+\cvsection{Knowledge \& Skills}
+
+\begin{cvknowledge}
+
+\cvknowledges
+{Programming Language. (In the order of Proficiency from high to Low)}
+
+\cvknowledgesitem{
+\begin{itemize}
+  \item JAVA
+  \inlineitem PHP
+  \inlineitem HTML
+\end{itemize}}
+
+\cvknowledges
+{Server \& Development Related Applications/Services}
+
+\cvknowledgesitem{
+\begin{itemize}
+  \item Ubuntu
+  \inlineitem Webmin/Virtualmin
+  \inlineitem CloudFlare
+  \inlineitem Git
+  \inlineitem CVS
+  \inlineitem Apache
+  \inlineitem CPanel
+\end{itemize}}
+
+\cvknowledges
+{Language}
+
+\cvknowledgesitem{
+\begin{itemize}
+  \item English
+  \inlineitem Chinese (Mandarin)
+  \inlineitem Fuzhouese (Chinese Dialect)
+\end{itemize}}
+
+\end{cvknowledge}
