@@ -1,5 +1,7 @@
 # Jie Chen's Resume
 
+![Resuem.png](https://raw.githubusercontent.com/JChenByte/Resume/master/Resume.png)
+
 Last updated on Feb 24, 2016.
 
 ## Credits
