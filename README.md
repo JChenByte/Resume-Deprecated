@@ -1,7 +1,7 @@
 # Jie Chen's Resume
 
-![Resuem.png](https://raw.githubusercontent.com/JChenByte/Resume/master/Resume.png)
-
+![Resuem1.png](https://raw.githubusercontent.com/JChenByte/Resume/master/Resume_1.png)
+![Resuem2.png](https://raw.githubusercontent.com/JChenByte/Resume/master/Resume_2.png)
 Last updated on Feb 24, 2016.
 
 ## Credits
