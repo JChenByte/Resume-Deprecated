@@ -2,7 +2,7 @@
 
 ![Resuem1.png](https://raw.githubusercontent.com/JChenByte/Resume/master/Resume_1.png)
 ![Resuem2.png](https://raw.githubusercontent.com/JChenByte/Resume/master/Resume_2.png)
-Last updated on Feb 24, 2016.
+Last updated on June 4, 2016.
 
 ## Credits
 
